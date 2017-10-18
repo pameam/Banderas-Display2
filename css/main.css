@@ -1,0 +1,27 @@
+div{
+  /*Estamos asignando al atributo width el valor de 200px */
+  width: 200px;
+  /*Estamos asignando al atributo height el valor de 120px */
+  height: 120px;
+  /*Estamos asignando al atributo margin el valor de 12px */
+  margin: 12px;
+  /*Estamos asignando al atributo padding el valor de 9px para que el texto no este al borde*/
+  padding: 9px;
+  /*Estamos asignando al atributo display el valor de block para que lo tome como un bloque */
+  display: block;
+}
+/*Estamos llamando a la clase yellow1 y le estamos asignando un color al fondo*/
+.yellow1 {
+  background-color: 	#FFC300;
+}
+/*Estamos llamando a la clase black */
+.black {
+  /*Le estamos asignando el color blanco al texto y al fondo negro pizarra*/
+  color : white;
+  background-color: #2a3035;
+}
+/*Estamos llamando a la clase yellow2 */
+.yellow2 {
+  /* Le estamos asignando el color amarillo al fondo*/
+  background-color: #FFC300;
+}
